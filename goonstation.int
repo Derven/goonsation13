@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 504.1234
+WINDOW: code\defines\obj\clothing.dm;code\game\objects\closets\wardrobe.dm;code\modules\admin\admin.dm;code\game\objects\closets\l3closet.dm;code\game\objects\closets\secure\brig.dm;code\game\jobs\jobprocs.dm;code\game\machinery\doors\door.dm;code\game\machinery\doors\airlock.dm;maps\trunkmap.dmm;icons\obj\power.dmi;code\game\master_controller.dm;code\game\objects\items\weapons\game_kit.dm;icons\dice20.png;icons\dice.png;icons\88x31.png;icons\80x15.png;icons\ss13_32.png;icons\somerights20.png;icons\map.png;icons\ss13_64.png;icons\mob\suit.dmi;icons\mob\uniform.dmi;code\game\throwing.dm;code\defines\mob\living\carbon\human.dm;code\defines\mob\living\living.dm;code\modules\mob\new_player\preferences.dm;code\modules\mob\living\carbon\human\human.dm;code\game\machinery\doors\firedoor.dm;code\defines\mob\mob.dm;code\game\machinery\bots\mulebot.dm
+UPDATE_OBJ_TREE: ON
+DIR: code code\defines code\defines\mob code\defines\mob\living code\defines\mob\living\carbon code\defines\obj code\defines\obj\clothing code\game code\game\jobs code\game\machinery code\game\machinery\atmoalter code\game\machinery\bots code\game\machinery\doors code\game\objects code\game\objects\closets code\game\objects\closets\secure code\game\objects\items code\game\objects\items\weapons code\modules code\modules\admin code\modules\admin\verbs code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\new_player icons icons\mob icons\obj icons\obj\clothing maps 
+FILE: code\game\machinery\doors\airlock.dm
+LAST_COMPILE_TIME: 1405953120
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
